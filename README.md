@@ -1,0 +1,2 @@
+# RWPodSpecs
+Test repository PodSpecs
